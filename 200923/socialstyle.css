@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; 
+  }
+  
+  .container {
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .container h2 {
+    color: #ff0000; 
+  }
+  
+  .social-icons a {
+    text-decoration: none;
+    color: #ff0000; 
+    font-size: 24px;
+    margin: 0 10px;
+  }
+  
+  .social-icons a:hover {
+    color: #ffffff; 
+    background-color: #ff0000; 
+  }
+  
+  .social-icons img {
+    border: 2px solid #ff0000; 
+    width: 24px; 
+    height: 24px; 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+  
